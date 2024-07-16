@@ -2,6 +2,10 @@
 
 This project is a simple stopwatch application built using HTML, CSS, and JavaScript. The stopwatch allows you to start, pause, and reset the timer.
 
+## Demo
+
+A live demo of the landing page can be found https://ahmedrady66.github.io/PRODIGY_WD_02/
+
 ## Table of Contents
 - [Files](#files)
 - [Usage](#usage)
